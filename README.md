@@ -14,7 +14,7 @@
 ## Table of Contents
 * [Getting Started](#getting-started)
 * [Gmail](#gmail)
-* [Google Workspace training](#training)
+* [Additional Google Workspace training](#training)
 
 ### <a name="getting started"></a>Getting Started
 
@@ -25,7 +25,7 @@ So, what do I need to get started?
 * Your Greenville Chorale email address (something@greenvillechorale.org)
 * Your Greenville Chorale password
 
-You should have received the email address and password already - be sure to save them!
+__*You should have received the email address and password already - be sure to save them!*__
 
 If you haven't received them, or misplaced them, contact Fred Laxton.
 
