@@ -1,5 +1,10 @@
 # Welcome to Google Workspace!
 
+## Table of Contents
+* [Getting Started](#getting-started)
+
+### <a name="getting started"></a>Getting Started
+
 ---
 
 ## Welcome to GitHub Pages
