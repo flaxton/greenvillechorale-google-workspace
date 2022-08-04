@@ -1,8 +1,11 @@
 # Welcome to Google Workspace!
 
+![Google Workspace logo](https://greenvillechorale.org/wp-content/uploads/2022/08/google-workspace-logo-512x255-1.png)
+
 ## Table of Contents
 * [Getting Started](#getting-started)
 * [Gmail](#gmail)
+* [Google Workspace training](#training)
 
 ### <a name="getting started"></a>Getting Started
 
@@ -28,8 +31,6 @@ If you don't have the Google Chrome web browser, you can get it here:
 
 [https://google.com/chrome](https://google.com/chrome)
 
-*(You can also optionally set up email on your Android or iPhone smartphone.)*
-
 ---
 
 ### <a name="gmail"></a>Gmail
@@ -42,7 +43,22 @@ There are two ways to use your email account:
 * Use it in an email program, such as Microsoft Outlook or Apple Mail (all email programs can use it if you have another favorite)
 
 
+*(You can also optionally set up email on your Android or iPhone smartphone.)*
+
 ---
+
+### <a name="Google Workspace training"></a>Google Workspace training
+
+Google Workspace has free training courses here:
+
+[https://cloud.google.com/training/workspace/#workspace-end-user-learning-path](https://cloud.google.com/training/workspace/#workspace-end-user-learning-path) 
+
+I recommend the courses on:
+* Gmail (if you intend to use Gmail in your web browser, not in a program like Outlook or Apple Mail)
+* Google Drive - to manage your files/folders and shared files/folders
+* Google Docs - word processor documents similar to Microsoft Word
+* Google Sheets - spreadsheets similar to Microsoft Excel
+
 
 ## Welcome to GitHub Pages
 
