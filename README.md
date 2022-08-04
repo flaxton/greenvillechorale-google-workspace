@@ -1,7 +1,14 @@
 # Welcome to Google Workspace!
 
 <p align="center">
-  <img width="300" height="149" src="https://greenvillechorale.org/wp-content/uploads/2022/08/google-workspace-logo-512x255-1.png"> <img width="300" height="61" src="https://greenvillechorale.org/wp-content/uploads/2022/06/Greenville-Chorale-Logo-22-combined-black-v02-1237x250-1.png">
+<table width="100%"
+<tr>
+<td width="49%">
+  <img width="300" height="149" src="https://greenvillechorale.org/wp-content/uploads/2022/08/google-workspace-logo-512x255-1.png"> </td>
+<td width="49%">
+<img width="300" height="61" src="https://greenvillechorale.org/wp-content/uploads/2022/06/Greenville-Chorale-Logo-22-combined-black-v02-1237x250-1.png"> </td>
+</tr>
+</table>
 </p>
 
 ## Table of Contents
