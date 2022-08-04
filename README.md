@@ -34,6 +34,13 @@ If you don't have the Google Chrome web browser, you can get it here:
 
 ### <a name="gmail"></a>Gmail
 
+What is Gmail? It's the email system for Google accounts. Greenville Chorale is using Google Workspace, hence Google email, even though the addresses are something@greenvillechorale.org.
+
+There are two ways to use your email account:
+
+* Use it directly on the website gmail.com
+* Use it in an email program, such as Microsoft Outlook or Apple Mail (all email programs can use it if you have another favorite)
+
 
 ---
 
