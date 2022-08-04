@@ -1,7 +1,7 @@
 # Welcome to Google Workspace!
 
 <p align="center">
-  <img width="512" height="255" src="https://greenvillechorale.org/wp-content/uploads/2022/08/google-workspace-logo-512x255-1.png">
+  <img width="300" height="149" src="https://greenvillechorale.org/wp-content/uploads/2022/08/google-workspace-logo-512x255-1.png"> <img width="300" height="61" src="https://greenvillechorale.org/wp-content/uploads/2022/06/Greenville-Chorale-Logo-22-combined-black-v02-1237x250-1.png">
 </p>
 
 ## Table of Contents
