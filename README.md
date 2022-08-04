@@ -17,17 +17,18 @@ You should have received the email address and password already - be sure to sav
 
 If you haven't received them, or misplaced them, contact Fred Laxton.
 
-Windows users - if you use Microsoft Outlook, save them in a Contact
-Mac users - open the Contacts app and save them there - they'll also be saved in iCloud
+* Windows users - if you use Microsoft Outlook, save them in a Contact
+* Mac users - open the Contacts app and save them there - they'll also be saved in iCloud
 
 Make the name of the card something like "Greenville Chorale email account" or some such, in the business name field (not First/Last name)
+
 In the notes of the contact, put the email address and password.
 
 If you don't have the Google Chrome web browser, you can get it here:
 
 [https://google.com/chrome](https://google.com/chrome)
 
-You can also optionally set up email on your Android or iPhone smartphone.
+*(You can also optionally set up email on your Android or iPhone smartphone.)*
 
 ---
 
