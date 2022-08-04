@@ -40,17 +40,20 @@ If you don't have the Google Chrome web browser, you can get it here:
 
 [https://google.com/chrome](https://google.com/chrome)
 
+Why use Google Chrome? Because Google Workspace is made by Google, and other web browsers may not work properly.
+
 ---
 
 ### <a name="gmail"></a>Gmail
 
 What is Gmail? It's the email system for Google accounts. Greenville Chorale is using Google Workspace, hence Google email, even though the addresses are something@greenvillechorale.org.
 
-There are two ways to use your email account:
+**There are two ways to use your email account:**
 
 * Use it directly on the website gmail.com
 * Use it in an email program, such as Microsoft Outlook or Apple Mail (all email programs can use it if you have another favorite)
 
+You can mix and match these, sometimes using an email program like Outlook, other times going to gmail.com and using it there for certain featurs (such as linking to a file, instead of attaching it)
 
 *(You can also optionally set up email on your Android or iPhone smartphone.)*
 
