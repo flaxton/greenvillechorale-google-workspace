@@ -2,8 +2,37 @@
 
 ## Table of Contents
 * [Getting Started](#getting-started)
+* [Gmail](#gmail)
 
 ### <a name="getting started"></a>Getting Started
+
+So, what do I need to get started?
+
+* A Windows or Mac computer
+* The Google Chrome web browser
+* Your Greenville Chorale email address (something@greenvillechorale.org)
+* Your Greenville Chorale password
+
+You should have received the email address and password already - be sure to save them!
+
+If you haven't received them, or misplaced them, contact Fred Laxton.
+
+Windows users - if you use Microsoft Outlook, save them in a Contact
+Mac users - open the Contacts app and save them there - they'll also be saved in iCloud
+
+Make the name of the card something like "Greenville Chorale email account" or some such, in the business name field (not First/Last name)
+In the notes of the contact, put the email address and password.
+
+If you don't have the Google Chrome web browser, you can get it here:
+
+[https://google.com/chrome](https://google.com/chrome)
+
+You can also optionally set up email on your Android or iPhone smartphone.
+
+---
+
+### <a name="gmail"></a>Gmail
+
 
 ---
 
