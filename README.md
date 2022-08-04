@@ -59,7 +59,7 @@ You can mix and match these, sometimes using an email program like Outlook, othe
 
 ---
 
-### <a name="Google Workspace training"></a>Google Workspace training
+### <a name="training"></a>Google Workspace training
 
 Google Workspace has free training courses here:
 
