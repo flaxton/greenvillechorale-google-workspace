@@ -52,7 +52,7 @@ What is Gmail? It's the email system for Google accounts. Greenville Chorale is 
 
 **There are two ways to use your email account:**
 
-* Use it directly on the website gmail.com
+* Use it directly on the website gmail.com, using the Google Chrome web browser
 * Use it in an email program, such as Microsoft Outlook or Apple Mail (all email programs can use it if you have another favorite)
 
 You can mix and match these, sometimes using an email program like Outlook, other times going to gmail.com and using it there for certain featurs (such as linking to a file, instead of attaching it)
