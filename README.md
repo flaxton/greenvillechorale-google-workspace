@@ -1,3 +1,4 @@
+<a name="top">
 # Welcome to Google Workspace!
 
 <p align="center">
@@ -42,6 +43,8 @@ If you don't have the Google Chrome web browser, you can get it here:
 
 Why use Google Chrome? Because Google Workspace is made by Google, and other web browsers may not work properly.
 
+[Back to Top](#top)
+
 ---
 
 ### <a name="gmail"></a>Gmail
@@ -57,6 +60,8 @@ You can mix and match these, sometimes using an email program like Outlook, othe
 
 *(You can also optionally set up email on your Android or iPhone smartphone.)*
 
+[Back to Top](#top)
+
 ---
 
 ### <a name="training"></a>Google Workspace training
@@ -71,6 +76,9 @@ I recommend the courses on:
 * Google Docs - word processor documents similar to Microsoft Word
 * Google Sheets - spreadsheets similar to Microsoft Excel
 
+[Back to Top](#top)
+
+---
 
 ## Welcome to GitHub Pages
 
