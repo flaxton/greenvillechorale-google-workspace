@@ -1,5 +1,4 @@
-<a name="top">
-# Welcome to Google Workspace!
+# Welcome to Google Workspace! <a name="top">
 
 <p align="center">
 <table width="100%" align="center" border="0">
