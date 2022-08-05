@@ -187,7 +187,7 @@ Now select "Save as Google ..." where "..." is the type of file - Docs, Sheets, 
 
 Close the file by closing the tab. Your changes are already saved 😃
 
-In Google Drive, delete the original Microsoft Office file on Google Workspace, by right-clicking and selecing "Remove", so only the Google Workspace version remains.
+In Google Drive, delete the original Microsoft Office file on Google Workspace, by right-clicking and selecting "Remove", so only the Google Workspace version remains.
 
 *(Deleted documents are moved to the Trash, and can be recovered. After a time, the Trash is automatically emptied)*
 
