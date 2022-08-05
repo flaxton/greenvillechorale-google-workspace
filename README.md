@@ -15,6 +15,7 @@
 * [Using this Google Workspace guide](#using)
 * [What is Google Workspace?](#what)
 * [Getting Started](#getting-started)
+* [Using Google Chrome](#chrome)
 * [Gmail](#gmail)
   * [Spam folder](#spam-folder)
   * [What to do when legitimate mail is sent to Spam?](#legitimate)
@@ -81,6 +82,14 @@ If you don't have the Google Chrome web browser, you can get it here:
 [https://google.com/chrome](https://google.com/chrome)
 
 Why use Google Chrome? Because Google Workspace is made by Google, and other web browsers may not work properly.
+
+[Back to Top](#top)
+
+---
+
+### <a name="chrome"></a>Using Google Chrome
+
+__*If*__ you already have a Google/Gmail account, you will want to use a separate profile for the Greenville Chorale account.
 
 [Back to Top](#top)
 
