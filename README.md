@@ -42,6 +42,10 @@ Accessing Google Workspace is done using a web browser, preferably *Google Chrom
 
 The advantage of using Google Workspace is that you can share files and folders with other Greenville Chorale staff and Chorale members easily, instead of emailing documents, that are quickly out-of-date. Viewing or editing documents (if you have access to edit) requires no software at all, such as Microsoft Office, just a computer and web browser.
 
+Chorale staff can collaborate on documents, and even edit them at the same time.
+
+__*Changes are saved automatically as you type!*__
+
 It also allows administrative control of who can access which files/folders, and a centralized management of users and email addresses, etc.
 
 [Back to Top](#top)
@@ -181,9 +185,11 @@ Google Workspace will take a moment to convert it and then open it.
 
 Now select "Save as Google ..." where "..." is the type of file - Docs, Sheets, Slides, etc.
 
-Close the file.
+Close the file by closing the tab. Your changes are already saved 😃
 
-Delete the original Microsoft Office file on Google Workspace, so only the Google Workspace version remains.
+In Google Drive, delete the original Microsoft Office file on Google Workspace, by right-clicking and selecing "Remove", so only the Google Workspace version remains.
+
+*(Deleted documents are moved to the Trash, and can be recovered. After a time, the Trash is automatically emptied)*
 
 Congratulations! You've converted the Office format to Google Workspace format, making it much easier to work with going forward 👍
 
