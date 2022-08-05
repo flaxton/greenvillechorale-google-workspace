@@ -14,6 +14,8 @@
 ## Table of Contents
 * [Getting Started](#getting-started)
 * [Gmail](#gmail)
+  * [Spam folder](#spam-folder)
+  * [What to do when legitimate mail is sent to Spam?](#legitimate)
 * [Additional Google Workspace training](#training)
 
 ### <a name="getting started"></a>Getting Started
@@ -59,7 +61,7 @@ You can mix and match these, sometimes using an email program like Outlook, othe
 
 *(You can also optionally set up email on your Android or iPhone smartphone.)*
 
-#### Spam folder
+#### <a name="spam-folder"></a>Spam folder
 
 You will have a Spam folder set up automatically, where Google puts anything that looks suspect. The filtering is not as good as it used to be (or perhaps there is more spam), so you should check your Spam folder daily.
 
@@ -74,6 +76,18 @@ If using Microsoft Outlook, be sure that "Gmail" is expanded, to see the Spam fo
 ![Outlook with Gmail folder closed](https://greenvillechorale.org/wp-content/uploads/2022/08/outlook-spam-1.png)
 
 ![Outlook with Gmail folder showing Spam folder](https://greenvillechorale.org/wp-content/uploads/2022/08/outlook-spam-2.png)
+
+#### <a name="legitimate"></a>What to do when legitimate mail is sent to Spam?
+
+As you check your Spam folder daily, you will find good email sent there.
+
+To do this next step, you *must* login to gmail.com in a web browser if you're using an email program like Outlook.
+
+Open the Spam folder in the left sidebar, check the box(es) on the emails that are good, and click "Not Spam".
+
+This does two things:
+* Moves the email to your Inbox
+* "Trains" Google to not treat it as spam in the future (this is not 100% effective, but it does help)
 
 [Back to Top](#top)
 
