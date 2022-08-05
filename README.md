@@ -181,9 +181,9 @@ Double-click to open it.
 
 Google Workspace will take a moment to convert it and then open it.
 
-![Save as Google ...](https://greenvillechorale.org/wp-content/uploads/2022/08/convert-file-1.png)
-
 Now select "Save as Google ..." where "..." is the type of file - Docs, Sheets, Slides, etc.
+
+![Save as Google ...](https://greenvillechorale.org/wp-content/uploads/2022/08/convert-file-1.png)
 
 Close the file by closing the tab. Your changes are already saved 😃
 
