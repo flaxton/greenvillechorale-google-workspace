@@ -20,6 +20,7 @@
   * [Spam folder](#spam-folder)
   * [What to do when legitimate mail is sent to Spam?](#legitimate)
   * [Linking to a file instead of attaching one](#linking)
+* [Google Drive - Working with files/folders and shared files/folders](#drive)
 * [Working with Microsoft Office files](#office)
 * [Additional (free) Google Workspace training](#training)
 
@@ -165,6 +166,13 @@ Select the file in question.
 Then be sure the button at the bottom has "Drive link" selected and click "Insert".
 
 When you're satisfied that the email is filled out and the link inserted, click "Send".
+
+[Back to Top](#top)
+
+---
+
+### <a name="drive"></a>Google Drive - Working with files/folders and shared files/folders
+
 
 [Back to Top](#top)
 
