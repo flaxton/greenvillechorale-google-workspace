@@ -159,6 +159,10 @@ Delete the original Microsoft Office file on Google Workspace, so only the Googl
 
 Congratulations! You've converted the Office format to Google Workspace format, making it much easier to work with going forward 👍
 
+[Back to Top](#top)
+
+--- 
+
 ### <a name="training"></a>Additional (free) Google Workspace training
 
 Google Workspace has free training courses here:
