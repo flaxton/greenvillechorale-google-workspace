@@ -65,7 +65,7 @@ You can mix and match these, sometimes using an email program like Outlook, othe
 
 You will have a Spam folder set up automatically, where Google puts anything that looks suspect. The filtering is not as good as it used to be (or perhaps there is more spam), so you should check your Spam folder daily.
 
-If using gmail.com, scroll down and click the down arrow to see more folders, including Spam:
+If using gmail.com, scroll down and click the down arrow/More to see more folders, including Spam:
 
 ![Folders, showing More](https://greenvillechorale.org/wp-content/uploads/2022/08/spam-1.png)
 
@@ -88,6 +88,32 @@ Open the Spam folder in the left sidebar, check the box(es) on the emails that a
 This does two things:
 * Moves the email to your Inbox
 * "Trains" Google to not treat it as spam in the future (this is not 100% effective, but it does help)
+
+[Back to Top](#top)
+
+#### <a name="linking"></a>Linking to a file instead of attaching one
+
+Why would I want to "link" to a file instead of attaching it?
+
+Because attaching a large file may be rejected by the sending or receiving email system.
+
+Linking to a file avoids that issue ;-) 
+
+To do this:
+* Go to gmail.com in Google Chrome.
+* Click "Compose" to create a new email
+* Fill it out as usual
+* Instead of clicking the paper clip (attach a file), click the Google Drive symbol (a triangle)
+
+![Link to file](https://greenvillechorale.org/wp-content/uploads/2022/08/link-to-file-1.jpg)
+
+You'll go to another screen, showing (by default) "My Files" which are only your private files. If you want to link to a shared file, click on "Shared with Me" to see them. 
+
+Select the file in question.
+
+Then be sure the button at the bottom has "Drive link" selected and click "Insert".
+
+When you're satisfied that the email is filled out and the link inserted, click "Send".
 
 [Back to Top](#top)
 
