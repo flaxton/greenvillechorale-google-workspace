@@ -24,6 +24,10 @@
 
 ### <a name="using"></a>Using this Google Workspace guide
 
+This guide is a work-in-progress, to answer anticipated questions about Google Workspace.
+
+And because this guide is online, it can be changed and everyone instantly has the updates.
+
 Click on the topic in the Table of Contents at the top to scroll directly to that topic.
 
 When done, click on the "Back to Top" link to return to the top of the document and Table of Contents.
