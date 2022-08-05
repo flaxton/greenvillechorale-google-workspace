@@ -28,6 +28,8 @@ Click on the topic in the Table of Contents at the top to scroll directly to tha
 
 When done, click on the "Back to Top" link to return to the top of the document and Table of Contents.
 
+Or just scroll down to read everything 👍
+
 [Back to Top](#top)
 
 ---
