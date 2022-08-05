@@ -17,7 +17,7 @@
   * [Spam folder](#spam-folder)
   * [What to do when legitimate mail is sent to Spam?](#legitimate)
   * [Linking to a file instead of attaching one](#linking)
-* [Additional Google Workspace training](#training)
+* [Additional (free) Google Workspace training](#training)
 
 ### <a name="getting started"></a>Getting Started
 
@@ -98,7 +98,9 @@ Why would I want to "link" to a file instead of attaching it?
 
 Because attaching a large file may be rejected by the sending or receiving email system.
 
-Linking to a file avoids that issue ;-) 
+Linking to a file avoids that issue 👍 
+
+Instead of including the file, possibly exceeding the size limit, you are just including a link to it. The recipient clicks the link to view/download the file.
 
 To do this:
 * Go to gmail.com in Google Chrome.
@@ -122,7 +124,7 @@ When you're satisfied that the email is filled out and the link inserted, click 
 
 ---
 
-### <a name="training"></a>Google Workspace training
+### <a name="training"></a>Additional (free) Google Workspace training
 
 Google Workspace has free training courses here:
 
@@ -133,6 +135,8 @@ I recommend the courses on:
 * Google Drive - to manage your files/folders and shared files/folders
 * Google Docs - word processor documents similar to Microsoft Word
 * Google Sheets - spreadsheets similar to Microsoft Excel
+
+There are other Google Workspace "apps" with training, which you might want to view as well 😃
 
 [Back to Top](#top)
 
