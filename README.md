@@ -163,7 +163,11 @@ Google Workspace can easily open any Microsoft Office files, such as Microsoft W
 
 However, going forward, you should plan to use native Google Workspace file format equivalents: Google Docs, Google Sheets, Google Slides.
 
-So, how do you do that?
+Why would you do that? 
+
+Because native Google Workspace documents, spreadsheets, etc. have advanced collaboration features that Microsoft Office lacks, such as automatic saving, multiple users editing at the same time, sharing the documents on Google Workspace, backups, quick opening, and others (such as Chorale members) do not need any special software (like Microsoft Office) to access them.
+
+So, how do you do convert a Microsoft Office file to Google Workspace formats?
 
 First, open Google Drive to see your files and folders.
 
