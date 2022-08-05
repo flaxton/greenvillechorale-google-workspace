@@ -17,6 +17,7 @@
   * [Spam folder](#spam-folder)
   * [What to do when legitimate mail is sent to Spam?](#legitimate)
   * [Linking to a file instead of attaching one](#linking)
+* [Working with Microsoft Office files](#office)
 * [Additional (free) Google Workspace training](#training)
 
 ### <a name="getting started"></a>Getting Started
@@ -123,6 +124,40 @@ When you're satisfied that the email is filled out and the link inserted, click 
 [Back to Top](#top)
 
 ---
+
+### <a name="office"></a>Working with Microsoft Office files
+
+Google Workspace can easily open any Microsoft Office files, such as Microsoft Word, Microsoft Excel, or Microsoft Powerpoint.
+
+However, going forward, you should plan to use native Google Workspace file format equivalents: Google Docs, Google Sheets, Google Slides.
+
+So, how do you do that?
+
+First, open Google Drive to see your files and folders.
+
+Navigate to the folder where you want to add the Microsoft Office file.
+
+Click the "+ New" button and select "File Upload"
+
+This will open a window to your computer files. Navigate to the file, select it and click "Open"
+
+Google Workspace will upload the file and open it.
+
+You will see the file appear in the folder.
+
+Double-click to open it.
+
+Google Workspace will take a moment to convert it and then open it.
+
+![Save as Google ...](https://greenvillechorale.org/wp-content/uploads/2022/08/convert-file-1.png)
+
+Now select "Save as Google ..." where "..." is the type of file - Docs, Sheets, Slides, etc.
+
+Close the file.
+
+Delete the original Microsoft Office file on Google Workspace, so only the Google Workspace version remains.
+
+Congratulations! You've converted the Office format to Google Workspace format, making it much easier to work with going forward 👍
 
 ### <a name="training"></a>Additional (free) Google Workspace training
 
