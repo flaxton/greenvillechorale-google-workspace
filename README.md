@@ -12,6 +12,8 @@
 </p>
 
 ## Table of Contents
+* [Using this Google Workspace guide](#using)
+* [What is Google Workspace?](#what)
 * [Getting Started](#getting-started)
 * [Gmail](#gmail)
   * [Spam folder](#spam-folder)
@@ -19,6 +21,30 @@
   * [Linking to a file instead of attaching one](#linking)
 * [Working with Microsoft Office files](#office)
 * [Additional (free) Google Workspace training](#training)
+
+### <a name="using"></a>Using this Google Workspace guide
+
+Click on the topic in the Table of Contents at the top to scroll directly to that topic.
+
+When done, click on the "Back to Top" link to return to the top of the document and Table of Contents.
+
+[Back to Top](#top)
+
+---
+
+### <a name="what"></a>What is Google Workspace?
+
+Google Workspace is a "cloud" service - which means that the files/folders/apps are all on the Google Cloud, not on your computer itself.
+
+Accessing Google Workspace is done using a web browser, preferably *Google Chrome*.
+
+The advantage of using Google Workspace is that you can share files and folders with other Greenville Chorale staff and Chorale members easily, instead of emailing documents, that are quickly out-of-date. Viewing or editing documents (if you have access to edit) requires no software at all, such as Microsoft Office, just a computer and web browser.
+
+It also allows administrative control of who can access which files/folders, and a centralized management of users and email addresses, etc.
+
+[Back to Top](#top)
+
+---
 
 ### <a name="getting started"></a>Getting Started
 
