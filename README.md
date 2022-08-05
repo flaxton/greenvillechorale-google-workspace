@@ -16,6 +16,7 @@
 * [Gmail](#gmail)
   * [Spam folder](#spam-folder)
   * [What to do when legitimate mail is sent to Spam?](#legitimate)
+  * [Linking to a file instead of attaching one](#linking)
 * [Additional Google Workspace training](#training)
 
 ### <a name="getting started"></a>Getting Started
