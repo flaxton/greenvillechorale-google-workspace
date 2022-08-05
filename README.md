@@ -110,6 +110,8 @@ To do this:
 
 You'll go to another screen, showing (by default) "My Files" which are only your private files. If you want to link to a shared file, click on "Shared with Me" to see them. 
 
+![Link to file](https://greenvillechorale.org/wp-content/uploads/2022/08/link-to-file-2.jpg)
+
 Select the file in question.
 
 Then be sure the button at the bottom has "Drive link" selected and click "Insert".
