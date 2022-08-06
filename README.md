@@ -113,15 +113,19 @@ You can mix and match these, sometimes using an email program like Outlook, othe
 
 You will have a Spam folder set up automatically, where Google puts anything that looks suspect. The filtering is not as good as it used to be (or perhaps there is more spam), so you should check your Spam folder daily.
 
-If using gmail.com, scroll down and click the down arrow/More to see more folders, including Spam:
+If using gmail.com, scroll down and click the down arrow/More to see more folders:
 
 ![Folders, showing More](https://greenvillechorale.org/wp-content/uploads/2022/08/spam-1.png)
 
+Now you'll see more additional folders, including Spam:
+
 ![Folders expanded, showing Spam](https://greenvillechorale.org/wp-content/uploads/2022/08/spam-2.png)
 
-If using Microsoft Outlook, be sure that "Gmail" is expanded, to see the Spam folder:
+If using Microsoft Outlook, be sure that "Gmail" is expanded:
 
 ![Outlook with Gmail folder closed](https://greenvillechorale.org/wp-content/uploads/2022/08/outlook-spam-1.png)
+
+Then you will see the Spam folder:
 
 ![Outlook with Gmail folder showing Spam folder](https://greenvillechorale.org/wp-content/uploads/2022/08/outlook-spam-2.png)
 
