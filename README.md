@@ -90,7 +90,35 @@ Why use Google Chrome? Because Google Workspace is made by Google, and other web
 
 ### <a name="chrome"></a>Using Google Chrome
 
-__*If*__ you already have a Google/Gmail account, you will want to use a separate profile for the Greenville Chorale account.
+__*If*__ you already have a Google/Gmail account, you will want to use a separate profile for the Greenville Chorale account. 
+
+Here's how to add another profile on __*Chrome on Windows*__:
+
+* Click on the userid in the top right of the Chrome toolbar.
+
+![Profile on Chrome Windows](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-1.png)
+
+Click "Add" to add your Greenville Chorale Google account, and signon:
+
+![New profile login](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-2.png)
+
+After giving your Greenville Chorale email address and password, you'll be asked to turn on sync:
+
+![Turn on sync](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-3.png)
+
+I recommend you do so, to save your settings, everywhere that you use the Chrome web browser.
+
+To switch to a different Chrome profile (like your personal gmail account), click on the profile picture in the top right of the tool bar:
+
+![Switch profile](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-4.png)
+
+You may need to add your personal gmail account back in - note in this example mine doesn't show.
+
+Then you can switch profiles by clicking the image and then the profile you want to use.
+
+The procedure on a Mac and Google Chrome is similar, except you click on "Profiles" in the menu bar, then click "Add".
+
+And you switch profiles by clicking on Profiles and then the profile you wish to use.
 
 [Back to Top](#top)
 
@@ -177,7 +205,13 @@ When you're satisfied that the email is filled out and the link inserted, click 
 
 ### <a name="drive"></a>Google Drive - Working with files/folders and shared files/folders
 
-__*# TBD*__
+Google Drive is a file and folder viewer, like Explorer on Windows or Finder on Mac.
+
+Bear in mind that your default Google Drive area is "My Drive" - these are private files/folders only on your account.
+
+Files and folders shared with other Greenville Chorale users are all in folders in "Shared with Me" in the left sidebar.
+
+![Shared with Me](https://greenvillechorale.org/wp-content/uploads/2022/08/drive-1.png)
 
 [Back to Top](#top)
 
