@@ -213,6 +213,16 @@ Files and folders shared with other Greenville Chorale users are all in folders 
 
 ![Shared with Me](https://greenvillechorale.org/wp-content/uploads/2022/08/drive-1.png)
 
+In "Shared with Me", you'll find "Chorale Members" and "Chorale Staff" folders.
+
+Feel free to create files and sub-folders in either/both of these as needed.
+
+So for example, as you are working on documents for the Chorale members, keep them in the folder.
+
+Within "Chorale Members", you will see folder "Chorale Public Access".
+
+Put any documents in here that you want all Chorale members to be able to view. So for example, final documents like today's seating chart, would go here.
+
 [Back to Top](#top)
 
 ---
