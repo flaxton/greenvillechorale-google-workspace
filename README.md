@@ -189,7 +189,7 @@ To do this:
 
 ![Link to file](https://greenvillechorale.org/wp-content/uploads/2022/08/link-to-file-1.jpg)
 
-You'll go to another screen, showing (by default) "My Files" which are only your private files. If you want to link to a shared file, click on "Shared with Me" to see them. 
+You'll go to another screen, showing (by default) "My Files" which are only your private files. If you want to link to a shared file, click on "Shared with me" to see them. 
 
 ![Link to file](https://greenvillechorale.org/wp-content/uploads/2022/08/link-to-file-2.jpg)
 
@@ -209,19 +209,21 @@ Google Drive is a file and folder viewer, like Explorer on Windows or Finder on 
 
 Bear in mind that your default Google Drive area is "My Drive" - these are private files/folders only on your account.
 
-Files and folders shared with other Greenville Chorale users are all in folders in "Shared with Me" in the left sidebar.
+Files and folders shared with other Greenville Chorale users are all in folders in "Shared with me" in the left sidebar.
 
-![Shared with Me](https://greenvillechorale.org/wp-content/uploads/2022/08/drive-1.png)
+![Shared with me](https://greenvillechorale.org/wp-content/uploads/2022/08/drive-1.png)
 
-In "Shared with Me", you'll find "Chorale Members" and "Chorale Staff" folders.
+In "Shared with me", you'll find "Chorale Members" and "Chorale Staff" folders, and possibly others, depending on your access level.
 
-Feel free to create files and sub-folders in either/both of these as needed.
+Feel free to create files and sub-folders in the existing folders in "Shared with me" as needed.
 
-So for example, as you are working on documents for the Chorale members, keep them in the folder.
+If there is a need to create another top-level shared folder like these, please contact Fred.
 
-Within "Chorale Members", you will see folder "Chorale Public Access".
+So for example, as you are working on documents for the Chorale members, keep them in the "Chorale members" folder. Only staff have access to this folder.
 
-Put any documents in here that you want all Chorale members to be able to view. So for example, final documents like today's seating chart, would go here.
+However, within "Chorale Members", you will see folder "Chorale Public Access". This folder is linked to the website, and Chorale members can view any documents placed in it.
+
+So, put any finished documents in here that you want all Chorale members to be able to view. So for example, finalized documents like today's seating chart, would go here.
 
 [Back to Top](#top)
 
